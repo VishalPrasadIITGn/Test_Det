@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lab</folder>
-	<filename>13.jpg</filename>
-	<path>C:\Users\VISHAL RANJAN\Downloads\apple data\Resize\lab\13.jpg</path>
+	<folder>Resize</folder>
+	<filename>teachers-desk-with-apple-and-phone.jpg</filename>
+	<path>C:\Users\VISHAL RANJAN\Downloads\apple data\Resize\teachers-desk-with-apple-and-phone.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>346</xmin>
-			<ymin>261</ymin>
-			<xmax>498</xmax>
-			<ymax>397</ymax>
+			<xmin>39</xmin>
+			<ymin>105</ymin>
+			<xmax>291</xmax>
+			<ymax>349</ymax>
 		</bndbox>
 	</object>
 </annotation>

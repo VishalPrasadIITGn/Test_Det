@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lab</folder>
-	<filename>13.jpg</filename>
-	<path>C:\Users\VISHAL RANJAN\Downloads\apple data\Resize\lab\13.jpg</path>
+	<folder>Resize</folder>
+	<filename>phpThumb_generated_thumbnail.jpeg</filename>
+	<path>C:\Users\VISHAL RANJAN\Downloads\apple data\Resize\phpThumb_generated_thumbnail.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>346</xmin>
-			<ymin>261</ymin>
-			<xmax>498</xmax>
-			<ymax>397</ymax>
+			<xmin>202</xmin>
+			<ymin>416</ymin>
+			<xmax>383</xmax>
+			<ymax>590</ymax>
 		</bndbox>
 	</object>
 </annotation>
